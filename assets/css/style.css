@@ -1,0 +1,14 @@
+body{
+    background-color: blue;
+}
+.nav {
+    background-color: white;
+    text-align: right;
+    
+      
+}
+header{
+    background-color: teal;
+    float: left;
+    font-size: 60px;
+}
