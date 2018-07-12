@@ -1,6 +1,6 @@
 body{
     background-color: blue;
-    
+    color: #777777;
 }
 .nav {
     background-color: white;
@@ -12,4 +12,17 @@ header{
     background-color: teal;
     float: left;
     font-size: 60px;
+    color: white;
+}
+
+.wrapper {
+    background-color: #ffffff;
+    text-align: center;
+    width: 960px;
+    font-family: 'Georgia', Times, Times New Roman, serif;
+    border: #dddddd;
+  
+}
+h1{
+    color: teal;
 }
